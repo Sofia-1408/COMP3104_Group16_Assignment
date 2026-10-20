@@ -6,3 +6,5 @@ responsibilities of DevOps
 The DevOps course teaches students how to use Git and GitHub for version control and collaboration
 Students learn to work with branches, commits, and pull requests to manage changes in a shared repository
 The course also introduces continuous integration and continuous delivery, including automated workflows using tools such as GitHub Actions
+Through practical assignments, students gain experience managing Git repositories, tracking changes, and collaborating on shared projects
+These activities help students understand how version control and automated workflows are used in professional software development environments
