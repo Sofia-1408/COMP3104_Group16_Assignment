@@ -4,3 +4,6 @@ DevOps practices help automate software testing, integration, and deployment, ma
 Continuous integration and continuous delivery allow teams to release software updates more frequently while reducing the risk of errors
 DevOps also improves communication between developers, testers, and operations teams throughout the software development lifecycl
 By encouraging colaboration and continuous feedback, teams can identify issues earlier, reduce delays, and maintain software more efficiently after deployment
+Automated testing is another important part of DevOps in the software development lifecycle
+It allows developers to check whether change introduce problems without having to manually test everything
+By integrating automated test into the development process, teams can detect bugs earlier and reduce the risk of releasing faulty software
