@@ -1,0 +1,6 @@
+Student Name: Akinwunmi Eludoyin
+Student ID: 101567797
+Course: COMP3104 - DevOps
+
+
+Software Development Life Cycle (SDLC) The Software Development Life Cycle is a process used by developers to plan, create, test and maintain software applications. It helps teams stay organized and ensures that software meets the needs of its users. The SDLC includes several stages such as planning, gathering requirements, designing the system, development, testing, deployment and maintenance. Each stage plays an important role in making sure the final product works as expected. DevOps improves the SDLC by encouraging collaboration between developers and operations teams. It also introduces automation to make testing and deployment faster and more reliable. In COMP3104 we learn how tools like Git and GitHub help developers manage changes throughout the development process. By using branches, commits and pull requests, teams can work on different parts of a project while keeping everything organized.
