@@ -10,3 +10,5 @@ that would otherwise take a lot of time.
 In COMP3104 we learn how Git tracks changes in a project and how GitHub makes it easier for people to work on the same repository.
 
 We also practice creating branches, making commits and submitting pull requests before changes are added to the main project. The course introduces CI/CD and shows how tools like GitHub Actions can run checks automatically when code is pushed. These skills are important because they help teams catch mistakes early and keep their projects organized.
+
+One benefit of using Git is that it keeps a history of changes made to a project. If something goes wrong, developers can review earlier versions and understand what was changed. This makes it easier for teams to work together without losing track of their progress.
