@@ -14,3 +14,5 @@ We also practice creating branches, making commits and submitting pull requests 
 One benefit of using Git is that it keeps a history of changes made to a project. If something goes wrong, developers can review earlier versions and understand what was changed. This makes it easier for teams to work together without losing track of their progress.
 
 Branching allows developers to work on different parts of a project without affecting the main version. Once their changes are finished, they can submit a pull request for review before merging their work. This helps teams manage contributions and avoid conflicts when multiple people are working on the same repository.
+
+One thing I noticed while doing this assignment is how easy it is to lose track of changes when several people are working on the same project. Having my own branch gave me a place to work without changing everyone else’s files. I also found the commit history useful because I could see what I had done and go back to check it.
