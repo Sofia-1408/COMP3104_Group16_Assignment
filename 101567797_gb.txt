@@ -1,0 +1,11 @@
+George Brown Polytechnic
+
+Student Name: Akinwunmi Eludoyin
+Student ID: 101567797
+Course: COMP3104 - DevOps
+
+George Brown Polytechnic is a college located in Toronto, Ontario that offers students a combination of classroom learning and practical experience. The college provides programs in areas such as technology, business, health sciences and hospitality. I am currently studying Computer Programming and Analysis at George Brown. The program teaches students different aspects of software development including programming languages, databases, web development and software testing.
+
+One thing I appreciate about the program is the opportunity to work on projects that reflect real situations in the technology industry. Through courses like COMP3104, I am learning how developers use tools such as Git and GitHub to collaborate, manage code and track changes throughout a project.
+
+Working on group assignments has helped me understand the importance of communication and teamwork in software development. These projects give students a chance to apply what they learn in class while gaining experience with tools commonly used in the industry.

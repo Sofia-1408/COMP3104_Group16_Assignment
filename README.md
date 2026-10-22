@@ -2,6 +2,7 @@
 
 ## Group Members
 - **Leader:** Sofia (101573681) - [GitHub](https://github.com/Sofia-1408)
+- **Member:** Akinwunmi Eludoyin (101567797) - [GitHub](https://github.com/Tokiyanakin)
 
 ## Project Description
 This repository hosts the Group 16 assignment for the COMP3104 DevOps course, focusing on collaborative Git workflows, branching strategies, and CI/CD integration.
